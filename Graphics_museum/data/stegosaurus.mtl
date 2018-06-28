@@ -1,0 +1,5 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.08.2015 14:23:45
+
+newmtl StegMat
+map_Kd Stegosaurus_D.tga
